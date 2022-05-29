@@ -12,7 +12,7 @@
             "string": {}
         },
         "post": {
-            "belongsTo": "Post"
+            "belongsTo": "post"
         }
     }
 }
